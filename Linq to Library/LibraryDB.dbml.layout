@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LibraryDB">
+  <DataContextMoniker Name="/LibraryDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="63c0978f-e8fb-4e91-8a6a-60f302cfd1a8" absoluteBounds="1.25, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/LibraryDBDataContext/Book" />
+      <nestedChildShapes>
+        <elementListCompartment Id="17a43183-d330-43a3-a88c-8a6bc6f080da" absoluteBounds="1.2650000000000001, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
